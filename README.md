@@ -18,7 +18,7 @@ A análise de dados de milhares de anúncios fornecidos através do Airbnb é um
 **Links:**
 * [Blog](https://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@alexandrewildtgraziani)
 
 
 ## Projetos:
