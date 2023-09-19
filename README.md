@@ -8,9 +8,10 @@
 # Alexandre Wildt Graziani 
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Para este projeto, estamos analisando os dados da cidade de Berlin do Airbnb de 2019. Berlin não é apenas a cidade mais famosa da europa, mas também o principal destino global para visitantes atraídos por seus museus, entretenimento, restaurantes e comércio. De acordo com a  agências  de turismo  do Estado de Berlin, Berlin recebeu 5,7 milhões de visitantes em 2023.
+
+A análise de dados de milhares de anúncios fornecidos através do Airbnb é um fator crucial para a empresa. Nosso principal objetivo é descobrir as principais métricas que influenciam a listagem de imóveis na plataforma. Para isso, exploraremos e visualizaremos o conjunto de dados do Airbnb em Berlin usando técnicas básicas de análise exploratória de dados (EDA). Descobrimos a distribuição de cada anúncio do Airbnb com base em sua localização, incluindo faixa de preço, tipo de quarto, nome do anúncio e outros fatores relacionados. Analisamos esse conjunto de dados de diferentes ângulos e obtivemos insights interessantes. Isso pode ajudar na tomada de decisões estratégicas baseadas em dados pela equipe de marketing, equipe financeira e equipe técnica do Airbnb.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
