@@ -13,7 +13,7 @@ Para este projeto, estamos analisando os dados da cidade de Berlin do Airbnb de 
 
 A análise de dados de milhares de anúncios fornecidos através do Airbnb é um fator crucial para a empresa. Nosso principal objetivo é descobrir as principais métricas que influenciam a listagem de imóveis na plataforma. Para isso, exploraremos e visualizaremos o conjunto de dados do Airbnb em Berlin usando técnicas básicas de análise exploratória de dados (EDA). Descobrimos a distribuição de cada anúncio do Airbnb com base em sua localização, incluindo faixa de preço, tipo de quarto, nome do anúncio e outros fatores relacionados. Analisamos esse conjunto de dados de diferentes ângulos e obtivemos insights interessantes. Isso pode ajudar na tomada de decisões estratégicas baseadas em dados pela equipe de marketing, equipe financeira e equipe técnica do Airbnb.
 
-* [Notebook]('https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb')
+* [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb)
 
 # Analysis 
 
