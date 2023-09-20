@@ -17,6 +17,7 @@ A análise de dados de milhares de anúncios fornecidos através do Airbnb é um
 
 # Analysis 
 
+
 We will uncover insights on:
 
 + Listings types: Airbnb original idea was to offer a room or a shared room within one's home. Is it still so?
