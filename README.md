@@ -14,13 +14,13 @@ Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Re
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
-1. Datenimport: Laden Sie Ihre Daten in die Analyseumgebung, z. B. ein Datenanalyse-Tool oder eine Programmierumgebung wie Python oder R.
+1. Datenimport: Data Laden 
 
-2. Datenüberblick: Werfen Sie einen ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
+2. Datenüberblick: Ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
 
-3. Datenbereinigung: Identifizieren und behandeln Sie fehlende Werte, Dubletten oder Ausreißer. Diese Schritte sind wichtig, um sicherzustellen, dass Ihre Analyse auf qualitativ hochwertigen Daten basiert.
+3. Datenbereinigung: Identifizieren und behandeln von fehlende Werte, Dubletten oder Ausreißer.
 
-4. Deskriptive Statistiken: Berechnen Sie grundlegende statistische Maße wie Mittelwert, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung Ihrer Daten zu erhalten.
+4. Deskriptive Statistiken: Berechnung von grundlegende statistische Maße wie Mittelwert, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung Ihrer Daten zu erhalten.
 
 5. Datenvisualisierung: Erstellen Sie Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren. Histogramme, Boxplots, Streudiagramme und Heatmaps sind häufig verwendete Visualisierungen.
 
