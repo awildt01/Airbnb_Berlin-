@@ -13,6 +13,27 @@ Für dieses Projekt analysieren wir die Daten der Stadt Berlin aus dem Airbnb vo
 
 Die Analyse von Tausenden von Anzeigen, die über Airbnb bereitgestellt werden, ist ein entscheidender Faktor für das Unternehmen. Unser Hauptziel ist es, die wichtigsten Metriken zu ermitteln, die die Auflistung von Immobilien auf der Plattform beeinflussen. Zu diesem Zweck werden wir den Airbnb-Datensatz in Berlin mithilfe grundlegender Techniken der explorativen Datenanalyse (EDA) erkunden und visualisieren. Wir haben die Verteilung jeder Airbnb-Anzeige basierend auf ihrer Lage, einschließlich Preisbereich, Zimmertyp, Anzeigenname und anderen relevanten Faktoren, entdeckt. Wir haben diesen Datensatz aus verschiedenen Blickwinkeln analysiert und interessante Erkenntnisse gewonnen. Dies kann dem Marketingteam, dem Finanzteam und dem technischen Team von Airbnb bei datenbasierten strategischen Entscheidungen helfen.
 
+Eine explorative Datenanalyse (EDA) ist ein wichtiger Schritt in der Datenanalyse, bei dem Sie einen ersten Einblick in Ihre Daten erhalten, Muster identifizieren und Hypothesen aufstellen. Typischerweise umfasst eine EDA die folgenden Schritte:
+
+1. Datenimport: Laden Sie Ihre Daten in die Analyseumgebung, z. B. ein Datenanalyse-Tool oder eine Programmierumgebung wie Python oder R.
+
+2. Datenüberblick: Werfen Sie einen ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
+
+3. Datenbereinigung: Identifizieren und behandeln Sie fehlende Werte, Dubletten oder Ausreißer. Diese Schritte sind wichtig, um sicherzustellen, dass Ihre Analyse auf qualitativ hochwertigen Daten basiert.
+
+4. Deskriptive Statistiken: Berechnen Sie grundlegende statistische Maße wie Mittelwert, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung Ihrer Daten zu erhalten.
+
+5. Datenvisualisierung: Erstellen Sie Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren. Histogramme, Boxplots, Streudiagramme und Heatmaps sind häufig verwendete Visualisierungen.
+
+7. Korrelationsanalyse: Untersuchen Sie die Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob es starke Beziehungen gibt. Dies kann mithilfe von Korrelationskoeffizienten oder Korrelationsmatrizen durchgeführt werden.
+
+8. Hypothesenbildung: Auf der Grundlage Ihrer Beobachtungen und Analysen können Sie Hypothesen aufstellen, die Sie in späteren Schritten überprüfen möchten.
+
+9. Weitere Analysen: Führen Sie bei Bedarf weiterführende Analysen durch, um spezifische Fragen oder Hypothesen zu untersuchen. Dies kann die Anwendung von Statistiktests oder maschinellem Lernen umfassen.
+
+Zusammenfassung und Bericht: Fassen Sie Ihre Erkenntnisse zusammen und erstellen Sie Berichte oder Präsentationen, um Ihre Ergebnisse zu kommunizieren.
+
+
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb)
 
 # Analysis 
