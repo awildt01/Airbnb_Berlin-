@@ -20,17 +20,15 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 3. Datenbereinigung: Identifizieren und behandeln von fehlende Werte, Dubletten oder Ausreißer.
 
-4. Deskriptive Statistiken: Berechnung von grundlegende statistische Maße wie Mittelwert, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung Ihrer Daten zu erhalten.
+4. Deskriptive Statistiken: Berechnung grundlegender statistischer Maße wie Durchschnitt, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung der Daten zu erhalten.
+  
+5. Datenvisualisierung: Erstellung vom Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren.
 
-5. Datenvisualisierung: Erstellen Sie Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren. Histogramme, Boxplots, Streudiagramme und Heatmaps sind häufig verwendete Visualisierungen.
+6. Korrelationsanalyse: Untersuchung von Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob starke Beziehungen vorhanden sind.
 
-7. Korrelationsanalyse: Untersuchen Sie die Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob es starke Beziehungen gibt. Dies kann mithilfe von Korrelationskoeffizienten oder Korrelationsmatrizen durchgeführt werden.
+7. Hypothesenbildung: Auf der Grundlage von Beobachtungen und Analysen werden angenommen, wie verschiedene Faktoren miteinander in Beziehung stehen
 
-8. Hypothesenbildung: Auf der Grundlage Ihrer Beobachtungen und Analysen können Sie Hypothesen aufstellen, die Sie in späteren Schritten überprüfen möchten.
 
-9. Weitere Analysen: Führen Sie bei Bedarf weiterführende Analysen durch, um spezifische Fragen oder Hypothesen zu untersuchen. Dies kann die Anwendung von Statistiktests oder maschinellem Lernen umfassen.
-
-Zusammenfassung und Bericht: Fassen Sie Ihre Erkenntnisse zusammen und erstellen Sie Berichte oder Präsentationen, um Ihre Ergebnisse zu kommunizieren.
 
 
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb)
