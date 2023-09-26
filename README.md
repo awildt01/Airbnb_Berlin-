@@ -6,7 +6,7 @@
 </p>
 
 # Alexandre Wildt Graziani 
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist*</sub>
 
 
 Para este projeto, estamos analisando os dados da cidade de Berlin do Airbnb de 2019. Berlin não é apenas a cidade mais famosa da europa, mas também o principal destino global para visitantes atraídos por seus museus, entretenimento, restaurantes e comércio. De acordo com a  agências  de turismo  do Estado de Berlin, Berlin recebeu 5,7 milhões de visitantes em 2023.
