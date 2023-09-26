@@ -11,8 +11,8 @@
 
 Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Reisende sich entscheiden, Airbnb als ihren Hauptunterkunftsanbieter zu nutzen. Seit seinem Beginn im Jahr 2008 hat Airbnb ein enormes Wachstum verzeichnet, wobei die Anzahl der auf seiner Website gelisteten Mietobjekte jedes Jahr exponentiell zunimmt. In Deutschland ist keine Stadt beliebter als Berlin. Das bedeutet, dass Berlin einer der heißesten Märkte für Airbnb in Europa ist, mit über 9060 Angeboten im Januar 2021.
 
-Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) damit werden wir die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
-Die folgenden schritt werden durch durchgeführt
+Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
+Die folgenden schritt werden in der Analyse durch durchgeführt
 
 1. Datenimport: Laden Sie Ihre Daten in die Analyseumgebung, z. B. ein Datenanalyse-Tool oder eine Programmierumgebung wie Python oder R.
 
