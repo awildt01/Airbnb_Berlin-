@@ -13,7 +13,7 @@ Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Re
 
 # Analysis 
 
-Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren FRagen aufstellen und Hypothesen aufstellen.
+Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
 1. Data Laden 
