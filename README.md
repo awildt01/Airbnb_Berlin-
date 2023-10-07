@@ -5,6 +5,10 @@
   <img src="ogteaser.jpg" >
 </p>
 
+<p align="center">
+  <img src="ogteaser.jpg" >
+</p>
+
 # Alexandre Wildt Graziani 
 <sub>*Lead Data Scientist*</sub>
 
