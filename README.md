@@ -34,9 +34,6 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb)
-<p align="center">
-  <img src="ogteaser.jpg" >
-</p>
 
 # Analysis 
 
