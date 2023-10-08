@@ -33,7 +33,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 
 
-* [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Analisando_os_Dados_do_Airbnb_%28Berlin_2%29.ipynb)
+* [Notebook](https://colab.research.google.com/drive/1Qm8DSrbQ33ODmv6pKt87e9_x-o8LX36g#scrollTo=5s8yP8nEw9PG)
 
 # Analysis 
 
