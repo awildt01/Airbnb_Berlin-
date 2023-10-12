@@ -38,23 +38,17 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 # Analysis 
 
 
-We will uncover insights on:
+Folgenden Fragen werde ich durch der analyse  beantworten:
 
-+ Welche Art von Immobilien wird auf Airbnb am häufigsten vermietet?
 + Die ursprüngliche Idee von Airbnb bestand darin, ein Zimmer oder ein Mehrbettzimmer im eigenen Zuhause anzubieten. Ist das immer noch so?
-+ Sind die Einträge gleichmäßig über die Stadtteile verteilt oder gibt es Hotspots?
++ Welche Art von Immobilien wird auf Airbnb am häufigsten vermietet?
++ Sind die Angebote gleichmäßig über die Stadtteile verteilt oder gibt es Hotspots?
 + Welcher Viertel ist im Datensatz am teuersten?
++ Was ist der Durchschnittspreis für Mieten?
 + Welcher Host hat die meisten Anzeigen?
 + Was ist der Durchschnitt der Mindestaufenthaltsdauer für Mietwohnungen (minimum_nights)?
 + Sind Immobilien im Besitz einzelner Nutzer oder gibt es Nutzer mit mehreren Mietobjekten (d. h. potenziell für Spekulationen)?
-+ Was ist der Durchschnittspreis für Mieten?
 
-
-+ 
-+ Listings density: Are listings evenly spread across neighborhoods or are there hotspots?
-+ Ownership: are properties owned by individual users or are there users with multiple rental properties (i.e. potentially for speculation)?
-+ Price fairness: Are prices inflated for tourists? That is, is there a significative difference in prices between listings in English (i.e. for tourists) and German (i.e. "locals", or at least German-speaking tourists)? If there is, is this difference more pronounced in certain districts?
-+ Trends and Seasonality: Since we do not have historic data about stays but only about reviews, we could use reviews as estimators of stays. Has the number of reviews increased over time? If it has, can we say that the increase is due to an increased number of visitors or it must be simply abscribed to an increment in the popularity of the platform? Is the flow of tourists seasonal, that is does it follow a seasonal trend? Can we explain the pattern?
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
