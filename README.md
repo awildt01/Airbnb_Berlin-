@@ -11,7 +11,7 @@
 
 Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Reisende sich entscheiden, Airbnb als ihren Hauptunterkunftsanbieter zu nutzen. Seit seinem Beginn im Jahr 2008 hat Airbnb ein enormes Wachstum verzeichnet, wobei die Anzahl der auf seiner Website gelisteten Mietobjekte jedes Jahr exponentiell zunimmt. In Deutschland ist keine Stadt beliebter als Berlin. Das bedeutet, dass Berlin einer der heißesten Märkte für Airbnb in Europa ist, mit über 9060 Angeboten im Januar 2021.
 
-## Beschaffung der Daten
+### Beschaffung der Daten
 Alle hier verwendeten Daten wurden von der Website Inside Airbnb bezogen.
 
 Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
