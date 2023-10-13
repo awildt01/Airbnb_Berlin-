@@ -24,6 +24,8 @@ Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu
 
 
 
+
+
 | Field  | Description |
 | ------------- | ------------- |
 | id  | Airbnb's unique identifier for the listing |
