@@ -48,7 +48,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 # Analysis 
 
 
-Folgenden Fragen werde ich durch der Analyse  beantworten:
+Folgende Fragen werde ich durch der Analyse  beantworten:
 
 + Die ursprüngliche Idee von Airbnb bestand darin, ein Zimmer oder ein Mehrbettzimmer im eigenen Zuhause anzubieten. Ist das immer noch so?
 + Welche Art von Immobilien wird auf Airbnb am häufigsten vermietet?
