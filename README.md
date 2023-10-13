@@ -22,30 +22,6 @@ Für diese anfängliche explorative Analyse wird nur die folgende Datei herunter
 Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
 
 
-
-
-
-
-| Field  | Description |
-| ------------- | ------------- |
-| id  | Airbnb's unique identifier for the listing |
-| host_id  | Airbnb's unique identifier for the host/user |
-| room_type  | All homes are grouped into the following three room types: Entire place, Private room and Shared room |
-| neighbourhood_group_cleansed  | The neighbourhood group as geocoded using the latitude and longitude against neighborhoods as defined by open or public digital shapefiles |
-| price  | Daily price |
-| accommodates  | The maximum capacity of the listing |
-| latitude  | Uses the World Geodetic System (WGS84) projection for latitude and longitude |
-| longitude  | Uses the World Geodetic System (WGS84) projection for latitude and longitude |
-
-| Field  | Description |
-| ------------- | ------------- |
-| listing_id  | Airbnb's unique identifier for the listing |
-| id  | Airbnb's unique identifier for the review |
-| date  | Date the review was submitted |
-| reviewer_id  | Airbnb's unique identifier for the reviewer |
-| reviewer_name  | Reviewer name |
-| comments  | Review content |
-
 # Projekt 
 
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
