@@ -21,6 +21,9 @@ Für diese anfängliche explorative Analyse wird nur die folgende Datei herunter
 - listings.csv - Zusammenfassende Informationen und Metriken für Angebote in Berlin (geeignet für Visualisierungen).
 Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
 
+
+
+
 | Field  | Description |
 | ------------- | ------------- |
 | id  | Airbnb's unique identifier for the listing |
