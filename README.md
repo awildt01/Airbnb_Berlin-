@@ -68,6 +68,9 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 * [Medium](https://medium.com/@alexandrewildtgraziani)
 
 
+# Insight
+
+
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
