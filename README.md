@@ -43,7 +43,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 
 
-* [Notebook](https://colab.research.google.com/drive/1Qm8DSrbQ33ODmv6pKt87e9_x-o8LX36g#scrollTo=5s8yP8nEw9PG)
+
 
 # Analysis 
 
@@ -63,6 +63,7 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
+* [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 * [Blog](https://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium](https://medium.com/@alexandrewildtgraziani)
