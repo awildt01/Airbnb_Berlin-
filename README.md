@@ -66,7 +66,7 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 * [Blog](https://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://medium.com/@alexandrewildtgraziani)
+* [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
 
 
 # Insight
