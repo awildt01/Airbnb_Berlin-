@@ -72,7 +72,7 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 ### Insight
 
 
-## Projetos:
+### Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Visualisierung von Daten aus der Fußball-Bundesliga 2011-2012:** http://bit.ly/3Smgnsn
